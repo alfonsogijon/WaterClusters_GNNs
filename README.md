@@ -17,3 +17,22 @@ In the context of molecular modeling, individual atoms are represented as nodes,
 The accurate and efficient energy model is employed to conduct Monte Carlo simulations across diferent sizes, demosntrating stable behaviour. The predicted surface-to-interior state transition point and the bulk energy of the system are consistent with previous investigations, at a computational cost three-orders of magnitude lower.
 
 ![plot](./Figures/E0_vs_N13.png)
+
+## 👥 Authors
+
+Alfonso Gijón, Miguel Molina-Solana, Juan Gómez Romero
+
+## 📝 Citation
+🔗 https://doi.org/10.1016/j.jocs.2024.102383
+
+```
+@article{Gijon2024_waterclusters,
+title = {Graph-neural-network potential energy surface to speed up Monte Carlo simulations of water cluster anions},
+journal = {Journal of Computational Science},
+volume = {81},
+pages = {102383},
+year = {2024},
+issn = {1877-7503},
+doi = {https://doi.org/10.1016/j.jocs.2024.102383},
+author = {Alfonso Gijón and Miguel Molina-Solana and Juan Gómez-Romero}
+}
